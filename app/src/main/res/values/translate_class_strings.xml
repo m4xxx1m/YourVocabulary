@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="subscription_key">b060dc8ab93d4f139196deb8f37e1d56</string>
+    <string name="location">global</string>
+    <string name="scheme">https</string>
+    <string name="host">api.cognitive.microsofttranslator.com</string>
+    <string name="added_path_segment">/translate</string>
+    <string name="api_version_name">api-version</string>
+    <string name="api_version">3.0</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="media_type">application/json</string>
+    <string name="ocp_apim_key">Ocp-Apim-Subscription-Key</string>
+    <string name="ocp_apim_region">Ocp-Apim-Subscription-Region</string>
+    <string name="content_type">Content-type</string>
+</resources>

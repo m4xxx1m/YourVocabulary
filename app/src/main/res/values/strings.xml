@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YourVocabulary</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="translate">Перевести</string>
+    <string name="field_cant_be_empty">Поле не должно быть пустым</string>
+    <string name="enter_translation">Введите текст перевода или нажмите кнопку перевести</string>
+    <string name="add">Добавить</string>
+</resources>
