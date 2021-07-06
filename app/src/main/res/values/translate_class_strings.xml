@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="subscription_key">b060dc8ab93d4f139196deb8f37e1d56</string>
+    <string name="subscription_key">see in google keep</string>
     <string name="location">global</string>
     <string name="scheme">https</string>
     <string name="host">api.cognitive.microsofttranslator.com</string>
